@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app works!';
+  tableauChoix = ['choix 1', 'choix 2', 'choix 3'];
 }
